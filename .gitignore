@@ -4,6 +4,5 @@ __pycache__/
 .agents/
 .codegraph/
 test_images/
-weights/
 requirements_origin.txt
 infer_keras.py
