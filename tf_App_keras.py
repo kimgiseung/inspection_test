@@ -17,7 +17,7 @@ import matplotlib.patches as mpatches
 from matplotlib import font_manager
 from PIL import Image
 import tensorflow as tf
-from tensorflow import keras
+import keras
 
 # ── 한글 폰트 설정 ──
 font_path_win   = "C:/Windows/Fonts/malgun.ttf"
